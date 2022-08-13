@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinh!</h1>
-<h3 align="center">A passionate blockchain developer from Vietnam</h3>
+<h3 align="center">A blockchain developer from Vietnam</h3>
 
 - 🌱 I’m currently learning to improve my programming skills in **Solidity** and **Ethereum ecosystem**
 
