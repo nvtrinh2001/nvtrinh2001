@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning to improve my programming skills in **Solidity** and **Ethereum ecosystem**
 
-- 💬 Some tools that I am currently using **ethers, hardhat, nodejs, nextjs, web3uikit**
+- 💬 Some tools that I am currently using **solidity, ethers, hardhat, nodejs, nextjs, web3uikit**
 
 - 🤝 I’m looking for help with **how to become a better blockchain developer**
 
