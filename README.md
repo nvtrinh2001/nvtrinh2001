@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **trinh.nv194866@sis.hust.edu.vn**
 
-- 📄 Know about my experiences [here](here)
+- 📄 Check out my website portfolio [here](https://trinhnguyen.vercel.app)
 
 - ⚡ I like watching memes on the Internet, sometimes playing guitar and skateboarding.
 
