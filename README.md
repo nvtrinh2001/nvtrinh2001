@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trinh!</h1>
-<h3 align="center">A passionate blockchain developer from Vietnam</h3>
+<h3 align="center">A sofware & blockchain developer from Vietnam</h3>
 
-- 🌱 I’m currently learning to improve my programming skills in **Solidity** and **Ethereum ecosystem**
+- 🌱 I’m currently learning to improve my programming skills in **Ethereum & Cosmos ecosystem**
 
-- 💬 Some tools that I am currently using **solidity, ethers, hardhat, nodejs, nextjs, web3uikit**
+- 💬 Some tools, languages that I am currently using **solidity, rust, go, nodejs, CosmWasm**
 
 - 🤝 I’m looking for help with **how to become a better blockchain developer**
 
