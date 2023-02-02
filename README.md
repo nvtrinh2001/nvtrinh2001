@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning to improve my programming skills in **Ethereum & Cosmos ecosystem**
 
-- 💬 Some tools, languages that I am currently using **solidity, rust, go, nodejs, CosmWasm**
+- 💬 Some tools, languages that I am currently using **solidity, rust, go, nodejs, cosmwasm, and tendermint**
 
-- 🤝 I’m looking for help with **how to become a better blockchain developer**
+- 🤝 I’m looking for people having the same interests.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/nvtrinh2001)
 
@@ -13,7 +13,7 @@
 
 - 📄 Check out my website portfolio [here](https://trinhnguyen.vercel.app)
 
-- ⚡ I like watching memes on the Internet, sometimes playing guitar and skateboarding.
+- ⚡ I like watching memes on the Internet, and playing guitar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
