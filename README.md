@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/nvtrinh2001)
 
-- 📫 How to reach me **trinh.nv194866@sis.hust.edu.vn**
+- 📫 How to reach me **nguyenvantrinh2607@gmail.com**
 
 - 📄 Check out my website portfolio [here](https://trinhnguyen.vercel.app)
 
