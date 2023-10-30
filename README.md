@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trinh!</h1>
 <h3 align="center">A sofware engineer from Vietnam</h3>
 
-- 💬 Some tools, languages that I am currently using **rust, go, javascript, C++**
+- 💬 Some languages that I am currently using **rust, go, javascript, C++**
 
 - 🤝 I’m looking for people having the same interests.
 
