@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Trinh!</h1>
+<h1 align="center">Hello there 👋</h1>
 
 - 💬 Some languages that I am currently using: **rust, go, javascript, C++**
 
