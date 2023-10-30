@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinh!</h1>
-<h3 align="center">A sofware engineer from Vietnam</h3>
+<h3 align="center">I am a sofware engineer from Vietnam</h3>
 
 - 💬 Some languages that I am currently using: **rust, go, javascript, C++**
 
