@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/nvtrinh2001)
 
-- 📫 How to reach me: **nguyenvantrinh2607@gmail.com**
+- 📫 Reach me via **nguyenvantrinh2607@gmail.com**
 
 - 📄 Check out my website [here](https://piklr.vercel.app/)
 
