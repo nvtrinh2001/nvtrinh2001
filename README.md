@@ -3,7 +3,7 @@
 
 - 💬 Some languages that I am currently using: **go, java, c++, javascript**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/nvtrinh2001)
+- 👨‍💻 All of my projects are available [here](https://github.com/nvtrinh2001?tab=repositories)
 
 - 📫 Reach me via **nguyenvantrinh2607@gmail.com**
 
