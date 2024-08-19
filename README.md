@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">Welcome to my github account !</h3>
 
-- 💬 Some languages that I am currently using: **go, java, c++, javascript**
+- 💬 Some languages that I am currently using **go, java, c++, javascript**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/nvtrinh2001)
 
